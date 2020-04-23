@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-	int c;
+	int ccc;
 	return 0;
 }
